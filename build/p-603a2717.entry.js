@@ -1,0 +1,1 @@
+import{r as o,h as r,H as t}from"./p-fac15695.js";const e=class{constructor(r){o(this,r)}render(){return r(t,null,r("svg",{xmlns:"http://www.w3.org/2000/svg",height:"100%",width:"100%",fill:"none",viewBox:"0 0 24 24",stroke:"currentColor","stroke-width":"2"},r("path",{"stroke-linecap":"round","stroke-linejoin":"round",d:"M5 13l4 4L19 7"})))}};export{e as icon_check_outline}

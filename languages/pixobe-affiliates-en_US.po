@@ -1,0 +1,259 @@
+# Copyright (C) 2022 pixobe
+# This file is distributed under the same license as the Pixobe Affiliates plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixobe Affiliates 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pixobe-"
+"affiliates\n"
+"POT-Creation-Date: 2022-08-09T21:51:09+00:00\n"
+"PO-Revision-Date: 2022-08-10 05:54+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Domain: pixobe-affiliates\n"
+
+#. Plugin Name of the plugin
+msgid "Pixobe Affiliates"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.pixobe.com/wordpress/affiliate-link-manager/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Collect, collate, create beautiful product displays, comparision tables for "
+"your affiliate links to use in posts and pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "pixobe"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/pixobe"
+msgstr ""
+
+#: Helpers/class-admin-notices.php:59
+msgid "Template-Not-Found"
+msgstr "Oops, looks like style is removed or renamed.Please use another style."
+
+#: Includes/class-pixobe-affiliates-admin.php:113
+#: Includes/class-pixobe-affiliates-admin.php:114
+msgid "New"
+msgstr ""
+
+#: Includes/class-pixobe-affiliates-admin.php:124
+#: Includes/class-pixobe-affiliates-admin.php:125
+msgid "Links"
+msgstr ""
+
+#: Includes/class-pixobe-affiliates-admin.php:135
+#: Includes/class-pixobe-affiliates-admin.php:136
+msgid "Features"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:38
+msgid "link"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:39
+msgid "l inks"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:49
+msgid "No links found."
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:58
+#: views/admin/create-update-link.php:68
+msgid "Name"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:59
+msgid "Link Id"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:60
+#: views/admin/create-update-link.php:55
+msgid "Style"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:61
+#: views/admin/create-update-link.php:72
+msgid "Category"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:143
+msgid "Delete"
+msgstr ""
+
+#: Models/class-affiliate-list-table.php:266
+msgid "Filter"
+msgstr ""
+
+#: views/admin/create-update-link.php:22
+msgid "Editing Link: "
+msgstr ""
+
+#: views/admin/create-update-link.php:25
+msgid "Create New Link"
+msgstr ""
+
+#: views/admin/create-update-link.php:39
+msgid "Shortcode"
+msgstr ""
+
+#: views/admin/create-update-link.php:51
+msgid "General"
+msgstr ""
+
+#: views/admin/create-update-link.php:75
+msgid "Save"
+msgstr ""
+
+#: views/admin/create-update-link.php:80
+msgid "Link Settings"
+msgstr ""
+
+#: views/admin/create-update-link.php:84
+msgid "Rel"
+msgstr ""
+
+#: views/admin/create-update-link.php:88
+msgid "Open this link in new window?"
+msgstr ""
+
+#: views/admin/create-update-link.php:94
+msgid "Yes"
+msgstr ""
+
+#: views/admin/create-update-link.php:99
+msgid "No"
+msgstr ""
+
+#: views/admin/create-update-link.php:106
+msgid "Report"
+msgstr ""
+
+#: views/admin/create-update-link.php:113
+msgid "Used In"
+msgstr ""
+
+#: views/admin/create-update-link.php:118
+#: views/admin/create-update-link.php:130
+msgid "Check"
+msgstr ""
+
+#: views/admin/create-update-link.php:125
+msgid "Clicks"
+msgstr ""
+
+#: views/document/admin.php:11 views/minion/admin.php:14
+#: views/price-comparison/admin.php:11 views/simple/admin.php:10
+msgid "Preview"
+msgstr ""
+
+#: views/document/admin.php:22 views/minion/admin.php:25
+#: views/simple/admin.php:24
+msgid "Display Settings"
+msgstr ""
+
+#: views/document/admin.php:26 views/minion/admin.php:29
+#: views/simple/admin.php:28
+msgid "Affiliate Link"
+msgstr ""
+
+#: views/document/admin.php:30 views/minion/admin.php:33
+#: views/price-comparison/admin.php:27 views/price-comparison/admin.php:56
+#: views/simple/admin.php:32
+msgid "Header"
+msgstr ""
+
+#: views/document/admin.php:34 views/minion/admin.php:41
+msgid "Caption"
+msgstr ""
+
+#: views/document/admin.php:38
+msgid "Currency"
+msgstr ""
+
+#: views/document/admin.php:42 views/price-comparison/admin.php:31
+#: views/price-comparison/admin.php:60
+msgid "Price"
+msgstr ""
+
+#: views/document/admin.php:46
+msgid "Units"
+msgstr ""
+
+#: views/document/admin.php:51 views/minion/admin.php:51
+#: views/minion/view.php:19
+msgid "Pros"
+msgstr ""
+
+#: views/document/admin.php:60 views/document/admin.php:86
+#: views/minion/admin.php:61 views/minion/admin.php:136
+#: views/minion/admin.php:155 views/price-comparison/admin.php:45
+msgid "Add"
+msgstr ""
+
+#: views/document/admin.php:61 views/document/admin.php:87
+#: views/minion/admin.php:62 views/minion/admin.php:137
+#: views/minion/admin.php:156 views/price-comparison/admin.php:46
+msgid "Remove"
+msgstr ""
+
+#: views/document/admin.php:71 views/minion/admin.php:90
+#: views/price-comparison/admin.php:35 views/price-comparison/admin.php:64
+msgid "Button Label"
+msgstr ""
+
+#: views/document/admin.php:75 views/minion/admin.php:98
+msgid "Disclaimer"
+msgstr ""
+
+#: views/minion/admin.php:37
+msgid "Image URL"
+msgstr ""
+
+#: views/minion/admin.php:45
+msgid "Stars"
+msgstr ""
+
+#: views/minion/admin.php:72 views/minion/view.php:38
+msgid "Cons"
+msgstr ""
+
+#: views/minion/admin.php:94
+msgid "Button Link"
+msgstr ""
+
+#: views/minion/admin.php:105
+msgid "Color Palette"
+msgstr ""
+
+#: views/minion/admin.php:110
+msgid "Button Background"
+msgstr ""
+
+#: views/minion/admin.php:117
+msgid "Button Text"
+msgstr ""
+
+#: views/minion/admin.php:123
+msgid "Border Colors"
+msgstr ""
+
+#: views/price-comparison/admin.php:23 views/price-comparison/admin.php:52
+msgid "Price Table"
+msgstr ""
+
+#: views/price-comparison/admin.php:39 views/price-comparison/admin.php:68
+msgid "Link"
+msgstr ""
